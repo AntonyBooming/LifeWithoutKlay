@@ -12,7 +12,7 @@ If you’ve ever caught yourself wondering whether Golden State is still the pow
 
 ### Wins/Losses(highlights 5 seasons where both Klay and Steph were active together the most vs. only Steph):
 <iframe
-  src="Warriors' Wins and Losses Before and After Klay Left (with games played).png"
+  src="assets/visuals/Warriors' Wins and Losses Before and After Klay Left (with games played).png"
   width="800"
   height="800"
   frameborder="0"
@@ -21,7 +21,7 @@ If you’ve ever caught yourself wondering whether Golden State is still the pow
 ---
 
 <iframe
-  src="Warriors' Wins and Losses Before and After Klay Left (with games played).png"
+  src="assets/visuals/Warriors' Wins and Losses Before and After Klay Left (with games played).png"
   width="400"
   height="400"
   frameborder="0"
