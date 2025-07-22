@@ -16,3 +16,11 @@ If you’ve ever caught yourself wondering whether Golden State is still the pow
   frameborder="0"
 ></iframe>
 
+
+<iframe
+  src="Warriors' Wins and Losses Before and After Klay Left (with games played).png"
+  width="400"
+  height="400"
+  frameborder="0"
+></iframe>
+
