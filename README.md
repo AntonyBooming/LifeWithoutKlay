@@ -1,4 +1,6 @@
-![Steph and Klay](assets/images/steph_klay.webp)
+<p align="center">
+  <img src="assets/images/steph_klay.webp" alt="Steph and Klay" width="100%">
+</p>
 
 **Life Without Klay: How the Warriors Have Performed Since the Splash Era split**
 
