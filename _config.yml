@@ -1,4 +1,2 @@
-remote_theme: "mmistakes/minimal-mistakes"
-plugins:
-  - jekyll-include-cache
-  - jekyll-remote-theme
+remote_theme: mmistakes/minimal-mistakes
+title: Life Without Klay
