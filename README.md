@@ -1,6 +1,16 @@
-**Life Without Klay: How the Warriors Have Performed Since the Splash Era split**
+---
+layout: splash
+title: "Life Without Klay: How the Warriors Have Performed Since the Splash Era split"
+header:
+  overlay_image: steph_klay.webp
+  overlay_filter: 0.3 # Darkens image for text contrast (0 = no darkening)
+  caption: "This is an individual article about Warriors since Klay's departure"
+  actions:
+    - label: "Get Started"
+      url: "/about/"
+---
 
-This is an individual article about Warriors since Klay's departure
+
 
 by Antony Munkhchuluun
 
